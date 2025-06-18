@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+  "codeLens.enable": true,
+  "diagnostics.disable": ["trailing-space"],
+  "hint.enable": true,
+  "runtime.version": "LuaJIT",
+  "type.inferParamType": true,
+  "workspace.library": ["${3rd}/love2d/library"],
+  "workspace.userThirdParty": ["~/Code - OSS/User/globalStorage/sumneko.lua/addonManager/addons/love2d/module/library"]
+}
